@@ -8,8 +8,8 @@ KubosTV é um aplicativo popular de filmes feito por GabrielMedev.
 
 alt = KubosTV home
 
-aria-label = search movies
-placeholder = Search any movies...
+aria-label = Pesquisar
+placeholder = Pesquisar filmes e séries...
 alt = search
 
 alt = close search box
