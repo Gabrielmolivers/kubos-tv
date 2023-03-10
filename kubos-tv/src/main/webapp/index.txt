@@ -1,12 +1,12 @@
-Tvflix
+KubosTV
 
-Tvflix is a popular movie app made by codewithsadee.
+KubosTV é um aplicativo popular de filmes feito por GabrielMedev.
 
 
 
 #---------- HEADER ----------#
 
-alt = Tvflix home
+alt = KubosTV home
 
 aria-label = search movies
 placeholder = Search any movies...
@@ -35,13 +35,13 @@ Sci-Fi
 
 Language
 
+Portugues
 English
-Hindi
-Bengali
+
 
 Copyright 2023
-href = https://youtube.com/@codewithsadee
-codewithsadee
+href = https://github.com/Gabrielmolivers/kubos-tv
+gabrielmedev
 
 alt = the movie database logo
 
