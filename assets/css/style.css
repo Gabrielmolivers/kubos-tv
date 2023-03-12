@@ -141,7 +141,7 @@ body {
 	
 }
 
-:focus-visible { outline-color: var (--primary-variant); }
+:focus-visible { outline-color: var(--primary-variant); }
 
 ::-webkit-scrollbar {
 	width: 8px;
@@ -150,8 +150,8 @@ body {
 
 
 ::-webkit-scrollbar-thumb {
-	background-color: var (--banner-background);
-	border-radius: var (--radius-8);
+	background-color: var(--banner-background);
+	border-radius: var(--radius-8);
 }
 
 
@@ -159,7 +159,7 @@ body {
   #ESTILO REUTILIZADO
 \*-----------------------------------*/
 
-.search-wrapper::before{
+.search-wrapper::before {
 	position: absolute;
 	top: 14px;
 	right: 12px;
@@ -248,7 +248,7 @@ body {
 }
 
 .search-field {
-	background-color: var (--banner-background);
+	background-color: var(--banner-background);
 	height: 48px;
 	line-height: 48px;
 	padding-inline: 44px 16px;
@@ -260,7 +260,7 @@ body {
 
 .search-field::placeholder { color: var(--on-surface-variant);}
 
-.search-field:hover { box-shadow: 0 0 0 2px var (--on-surface-variant);}
+.search-field:hover { box-shadow: 0 0 0 2px var(--on-surface-variant);}
 
 .search-field:focus {
 	box-shadow: 0 0 0 2px var(--on-surface);
@@ -277,7 +277,7 @@ body {
 	
 }
 
-.search-wrapper:focus-whitin .leading-icon { opacity: 0;}
+.search-wrapper:focus-within .leading-icon {opacity: 0;}
 
 
 /*-----------------------------------*\
