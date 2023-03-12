@@ -44,7 +44,7 @@ Français
 
 
 Copyright 2023
-href = https://github.com/Gabrielmolivers/kubos-tv
+href = https://www.linkedin.com/in/gabriel-medeiros-de-oliveira/
 gabrielmolivers
 
 alt = the movie database logo
