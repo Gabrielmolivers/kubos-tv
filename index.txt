@@ -54,22 +54,22 @@ alt = the movie database logo
 #---------- HOME PAGE ----------#
 
 // BANNER
-aria-label = popular movies
+aria-label = filmes populares
 
-alt = Puss in Boots: The Last Wish
+alt = Gato de Botas 2: O Último Pedido
 
-Puss in Boots: The Last Wish
+Gato de Botas 2: O Último Pedido
 
 2022
 7.5
 
 Animation, Action, Adventure
 
-Puss in Boots discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.
+Gato de Botas 2 discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.
 
 Watch Now
 
-alt = Slide to Puss in Boots: The Last Wish
+alt = Slide to Gato de Botas 2: O Último Pedido
 
 
 
@@ -77,7 +77,7 @@ alt = Slide to Puss in Boots: The Last Wish
 
 Upcoming Movies
 
-alt = Puss in Boots: The Last Wish
+alt = Gato de Botas 2: O Último Pedido
 
 alt = rating
 
@@ -85,15 +85,15 @@ alt = rating
 
 2022
 
-title = Puss in Boots: The Last Wish
+title = Gato de Botas 2: O Último Pedido
 
 
 
 #---------- DETAIL PAGE ----------#
 
-alt = Puss in Boots: The Last Wish
+alt = Gato de Botas 2: O Último Pedido
 
-Puss in Boots: The Last Wish
+Gato de Botas 2: O Último Pedido
 
 alt = rating
 
@@ -107,7 +107,7 @@ PG-13
 
 Animation, Action, Adventure
 
-Puss in Boots discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.
+Gato de Botas 2 discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.
 
 Starring
 
@@ -121,7 +121,7 @@ Trailers and Clips
 
 You May Also Like
 
-alt = Puss in Boots: The Last Wish
+alt = Gato de Botas 2: O Último Pedido
 
 alt = rating
 
@@ -129,7 +129,7 @@ alt = rating
 
 2022
 
-title = Puss in Boots: The Last Wish
+title = Gato de Botas 2: O Último Pedido
 
 
 
@@ -143,4 +143,4 @@ All Fantasy Movies
 
 Results for
 
-Puss in Boots
+Gato de Botas 2
