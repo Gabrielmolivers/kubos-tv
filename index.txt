@@ -65,7 +65,7 @@ Gato de Botas 2: O Último Pedido
 
 Animação, Ação, Aventura
 
-Gato de Botas 2 discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.
+O Gato de Botas descobre que sua paixão pela aventura cobrou seu preço: ele já gastou oito de suas nove vidas. Ele então parte em uma jornada épica para encontrar o mítico Último Desejo e restaurar suas nove vidas.
 
 Assista Agora
 
@@ -73,13 +73,13 @@ alt = Slide to Gato de Botas 2: O Último Pedido
 
 
 
-// MOVIE LIST
+// LISTA DE FILMES
 
-Upcoming Movies
+Próximos Lançamentos
 
 alt = Gato de Botas 2: O Último Pedido
 
-alt = rating
+alt = classificação
 
 8.4
 
@@ -95,7 +95,7 @@ alt = Gato de Botas 2: O Último Pedido
 
 Gato de Botas 2: O Último Pedido
 
-alt = rating
+alt = classificação
 
 8.4
 
@@ -105,11 +105,11 @@ alt = rating
 
 PG-13
 
-Animation, Action, Adventure
+Animação, Ação, Aventura
 
-Gato de Botas 2 discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.
+O Gato de Botas descobre que sua paixão pela aventura cobrou seu preço: ele já gastou oito de suas nove vidas. Ele então parte em uma jornada épica para encontrar o mítico Último Desejo e restaurar suas nove vidas.
 
-Starring
+Elenco
 
 Letitia Wright, Lupita Nyong'o, Danai Gurira, Winston Duke, Dominique Thorne, Tenoch Huerta Mejía, Angela Bassett, Florence Kasumba, Michaela Coel, Mabel Cadena
 
@@ -117,13 +117,13 @@ Directed By
 
 Ryan Coogler
 
-Trailers and Clips
+Trailers
 
-You May Also Like
+Você também pode gostar
 
 alt = Gato de Botas 2: O Último Pedido
 
-alt = rating
+alt = classificação
 
 8.4
 
