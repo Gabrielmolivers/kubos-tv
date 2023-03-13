@@ -159,10 +159,8 @@ body {
   #ESTILO REUTILIZADO
 \*-----------------------------------*/
 
-.search-wrapper::before {
-	position: absolute;
-	top: 14px;
-	right: 12px;
+.search-wrapper::before,
+.load-more::before {
 	content: "";
 	width: 20px;
 	height: 20px;
@@ -173,7 +171,25 @@ body {
 	display: none;
 }
 
+.search-wrapper::before {
+	position: absolute;
+	top: 14px;
+	right: 12px;
+}
+
 .search-wrapper.searching::before { display: block; }
+
+.load-more {
+	background-color: var(--primary-variant);
+	margin-inline: auto;
+	margin-block: 36px 60px;
+}
+
+.load-more:is(:hover, :focus-visible) {
+	--primary-variant: hsla(350, 67%, 39%, 1);
+}
+
+.load-more.loading::before { display: block; }
 
 @keyframes loading {
 	0% { transform: rotate(0); }
