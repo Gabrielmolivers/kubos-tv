@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang='pt-br'>
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- 
+	meta tags Primarias
+ -->
+	<meta name="description" content="KubosTV é um aplicativo popular de filmes feito por GabrielMOlivers.">
+	
+	<!-- 
+	------ Favicon -------
+	 -->
+	 <link rel="shortcut icon" href="./favicon.svg" type="image/svg+xml">
+	 
+	 <!-- 
+	 --- google fonts link ---
+	  -->
+	  
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap" rel="stylesheet">
+	
+	<!-- 
+	--- Link do CSS Customizado ---
+	 -->
+	 
+	 <link rel="stylesheet" href="assets/css/style.css">
+	 
+	 <!-- 
+	 --- Link do JS Customizado ---
+	  -->
+	  
+	  <script src="assets/js/global.js" defer></script>
+	  <script src="assets/js/detail.js" type="module"></script>
+
+
+</head>
+
+<body>
+	<!-- 
+	--- HEADER ---
+	 -->
+	 
+	 <header class="header">
+	 
+	 <a href="index.html" class="logo">
+	 	<img src="assets/images/logo-kubos.png" width="140" height="32" alt="KubosTV home">
+	 </a>
+	 
+	 <div class="search-box" search-box>
+	 	<div class="search-wrapper" search-wrapper>
+	 		<input type="text" name="search" aria-label="Pesquisar" placeholder="Pesquisar..." class="search-field" autocomplete="off" search-field>
+	 		<img alt="search" src="assets/images/search.png" width="24" height="24" class="leading-icon">
+	 	</div>
+	 
+	 <button class="search-btn" search-toggler>
+	 	<img alt="close search box" src="assets/images/close.png" width="24" height="24">
+	 </button>
+	 
+	 </div>
+	 
+	 <button class="search-btn" search-toggler menu-close>
+	 	<img alt="open search box" src="assets/images/search.png" width="24" height="24">
+	 </button>
+	 
+	 <button class="menu-btn" menu-btn menu-toggler>
+	 <img alt="open menu" src="assets/images/menu.png" width="24" height="24" class="menu">
+	 <img alt="close menu" src="assets/images/menu-close.png" width="24" height="24" class="close">
+	 </button>
+	 
+	 </header>
+
+<!-- 
+	--- SIDEBAR ---
+ -->
+
+	<nav class="sidebar" sidebar>
+	 <div class="sidebar-inner">
+	 
+	 	<div class="sidebar-list">
+	 		<p class="title">Gênero</p>
+	 	
+				<a href="movie-list.html" menu-close class="sidebar-link">Ação</a>
+				
+				<a href="movie-list.html" menu-close class="sidebar-link">Terror</a>
+				
+				<a href="movie-list.html" menu-close class="sidebar-link">Comédia</a>
+				
+				<a href="movie-list.html" menu-close class="sidebar-link">Aventura</a>
+				
+				<a href="movie-list.html" menu-close class="sidebar-link">Drama</a>
+				
+				<a href="movie-list.html" menu-close class="sidebar-link">Ficção Científica</a>
+	 	
+	 	</div>
+	 	
+	 	<div class="sidebar-list">
+	 		<p class="title">Idioma</p>
+	 	
+				<a href="movie-list.html" menu-close class="sidebar-link">Português</a>
+				
+				<a href="movie-list.html" menu-close class="sidebar-link">English</a>
+				
+				<a href="movie-list.html" menu-close class="sidebar-link">Español</a>
+	 	
+	 	</div>
+	 	
+	 	<div class="sidebar-footer">
+	 		<p class="copyright">
+	 			Copyright 2023 <a href="https://www.linkedin.com/in/gabriel-medeiros-de-oliveira/">gabrielmolivers</a>
+	 		</p>
+	 		
+	 		<img alt="the movie database logo" src="assets/images/tmdb-logo.svg" width="130" height="17">
+	 		
+	 	</div>
+	 
+	 </div>
+	</nav>
+	<div class="overlay" overlay menu-toggler></div>
+
+
+
+
+	<article class="container" page-content>
+	<!--
+		--- DETALHES DO FILME ---
+	-->
+
+    <div class="movie-detail">
+        <div class="backdrop-image" style="background-image: url('./assets/images/slider-banner.jpg');"></div>
+
+        <figure class="poster-box movie-poster">
+            <img src="./assets/images/slider-control.jpg" alt="Gato de Botas 2: O Último Pedido" class="img-cover">
+        </figure>
+
+        <div class="detail-box">
+
+            <div class="detail-content">
+                <h1 class="heading">Gato de Botas 2: O Último Pedido</h1>
+
+                <div class="meta-list">
+
+                    <div class="meta-item">
+                        <img src="./assets/images/star.png" width="20" height="20" alt="classificação">
+
+                        <span class="span">8.4</span>
+                    </div>
+
+                    <div class="separator"></div>
+
+                    <div class="meta-item">162m</div>
+
+                    <div class="separator"></div>
+
+                    <div class="meta-item">2022</div>
+
+                    <div class="meta-item card-badge">Livre</div>
+
+                </div>
+
+                <p class="genre">Animação, Ação, Aventura</p>
+
+                <p class="overview">O Gato de Botas descobre que sua paixão pela aventura cobrou seu preço: ele já gastou oito de suas nove vidas. Ele então parte em uma jornada épica para encontrar o mítico Último Desejo e restaurar suas nove vidas.</p>
+
+                <ul class="detail-list">
+
+                    <div class="list-item">
+                        <p class="list-name">Elenco:</p>
+                        <p>Letitia Wright, Lupita Nyong'o, Danai Gurira, Winston Duke, Dominique Thorne, Tenoch Huerta Mejía, Angela Bassett, Florence Kasumba, Michaela Coel, Mabel Cadena</p>
+                    </div>
+
+                    <div class="list-item">
+                        <p class="list-name">Dirigido por:</p>
+                        <p>Ryan Coogler</p>
+                    </div>
+
+                </ul>
+            </div>
+
+            <div class="title-wrapper">
+                <h3 class="title-large">Trailers</h3>
+            </div>
+
+            <div class="slider-list">
+                <div class="slider-inner">
+
+                    <div class="video-card"></div>
+
+                    <div class="video-card"></div>
+
+                    <div class="video-card"></div>
+
+                    <div class="video-card"></div>
+                    
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+
+
+	<!--
+		--- LISTA DE FILMES ---
+	-->
+
+	<section class="movie-list" aria-label="upcoming movie">
+
+		<div class="title-wrapper">
+			<h3 class="title-large">Você também pode gostar de:</h3>
+		</div>
+
+		<div class="slider-list">
+			<div class="slider-inner">
+
+				<div class="movie-card">
+
+					<figure class="poster-box card-banner">
+						<img src="./assets/images/slider-control.jpg" alt="Gato de Botas 2: O Último Pedido" class="img-cover">
+					</figure>
+
+					<h4 class="title">Gato de Botas 2: O Último Pedido</h4>
+
+					<div class="meta-list">
+						<div class="meta-item">
+							<img src="./assets/images/star.png" width="20" height="20" loading="lazy" alt="classificação">
+
+							<span class="span">8.4</span>
+						</div>
+
+						<div class="card-badge">2022</div>
+					</div>
+
+					<a href="./detail.html" class="card-btn" title="Gato de Botas 2: O Último Pedido"></a>
+					
+				</div>
+
+				<div class="movie-card">
+
+					<figure class="poster-box card-banner">
+						<img src="./assets/images/slider-control.jpg" alt="Gato de Botas 2: O Último Pedido" class="img-cover">
+					</figure>
+
+					<h4 class="title">Gato de Botas 2: O Último Pedido</h4>
+
+					<div class="meta-list">
+						<div class="meta-item">
+							<img src="./assets/images/star.png" width="20" height="20" loading="lazy" alt="classificação">
+
+							<span class="span">8.4</span>
+						</div>
+
+						<div class="card-badge">2022</div>
+					</div>
+
+					<a href="./detail.html" class="card-btn" title="Gato de Botas 2: O Último Pedido"></a>
+					
+				</div>
+
+				<div class="movie-card">
+
+					<figure class="poster-box card-banner">
+						<img src="./assets/images/slider-control.jpg" alt="Gato de Botas 2: O Último Pedido" class="img-cover">
+					</figure>
+
+					<h4 class="title">Gato de Botas 2: O Último Pedido</h4>
+
+					<div class="meta-list">
+						<div class="meta-item">
+							<img src="./assets/images/star.png" width="20" height="20" loading="lazy" alt="classificação">
+
+							<span class="span">8.4</span>
+						</div>
+
+						<div class="card-badge">2022</div>
+					</div>
+
+					<a href="./detail.html" class="card-btn" title="Gato de Botas 2: O Último Pedido"></a>
+					
+				</div>
+
+				<div class="movie-card">
+
+					<figure class="poster-box card-banner">
+						<img src="./assets/images/slider-control.jpg" alt="Gato de Botas 2: O Último Pedido" class="img-cover">
+					</figure>
+
+					<h4 class="title">Gato de Botas 2: O Último Pedido</h4>
+
+					<div class="meta-list">
+						<div class="meta-item">
+							<img src="./assets/images/star.png" width="20" height="20" loading="lazy" alt="classificação">
+
+							<span class="span">8.4</span>
+						</div>
+
+						<div class="card-badge">2022</div>
+					</div>
+
+					<a href="./detail.html" class="card-btn" title="Gato de Botas 2: O Último Pedido"></a>
+					
+				</div>
+
+				<div class="movie-card">
+
+					<figure class="poster-box card-banner">
+						<img src="./assets/images/slider-control.jpg" alt="Gato de Botas 2: O Último Pedido" class="img-cover">
+					</figure>
+
+					<h4 class="title">Gato de Botas 2: O Último Pedido</h4>
+
+					<div class="meta-list">
+						<div class="meta-item">
+							<img src="./assets/images/star.png" width="20" height="20" loading="lazy" alt="classificação">
+
+							<span class="span">8.4</span>
+						</div>
+
+						<div class="card-badge">2022</div>
+					</div>
+
+					<a href="./detail.html" class="card-btn" title="Gato de Botas 2: O Último Pedido"></a>
+					
+				</div>
+
+			</div>
+		</div>
+
+	</section>
+
+	</article>
+
+
+</body>
+</html>

@@ -103,23 +103,23 @@ alt = classificação
 
 2022
 
-PG-13
+Livre
 
 Animação, Ação, Aventura
 
 O Gato de Botas descobre que sua paixão pela aventura cobrou seu preço: ele já gastou oito de suas nove vidas. Ele então parte em uma jornada épica para encontrar o mítico Último Desejo e restaurar suas nove vidas.
 
-Elenco
+Elenco:
 
 Letitia Wright, Lupita Nyong'o, Danai Gurira, Winston Duke, Dominique Thorne, Tenoch Huerta Mejía, Angela Bassett, Florence Kasumba, Michaela Coel, Mabel Cadena
 
-Directed By
+Dirigido por:
 
 Ryan Coogler
 
 Trailers
 
-Você também pode gostar
+Você também pode gostar de:
 
 alt = Gato de Botas 2: O Último Pedido
 
@@ -135,7 +135,7 @@ title = Gato de Botas 2: O Último Pedido
 
 #---------- MOVIE LIST PAGE ----------#
 
-All Fantasy Movies
+Filmes de Fantasia:
 
 
 
